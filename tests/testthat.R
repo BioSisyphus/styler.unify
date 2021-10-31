@@ -1,4 +1,4 @@
 library(testthat)
-library(styler.putyourstyleguidehere)
+library(styler.unify)
 
-test_check("styler.putyourstyleguidehere")
+test_check("styler.unify")

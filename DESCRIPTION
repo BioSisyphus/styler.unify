@@ -1,18 +1,17 @@
-Package: styler.putyourstyleguidehere
+Package: styler.unify
 Title: Third-party Style Guide For 'putyourstyleguidehere'
 Version: 0.0.1
 Authors@R: 
-    person(given = "Hand",
-           family = "Muster",
+    person(given = "Shixiang",
+           family = "Wang",
            role = c("aut", "cre"),
-           email = "hans@muster.de")
-Description: styles code according to the putyourstyleguidehere using
-    'styler'.
+           email = "w_shixiang@163.com")
+Description: styles code according to the own purpose using 'styler'.
 License: MIT + file LICENSE
 Imports: 
     magrittr,
     purrr,
-    styler (>= 1.4.1.9003)
+    styler (>= 1.4.1)
 Suggests: 
     fs,
     knitr,
